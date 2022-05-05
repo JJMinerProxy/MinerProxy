@@ -1,12 +1,12 @@
 <div align="center">
 
-# KENC文档说明
+# KENC文档说明-本地加密客户端
 
 </div>
 
 <p id="kenc"></p>
 
-### KENC是本地->远程KT隧道，局域网部署在一台设备上即可，可与远程KTMinerProxy通过KENC协议进行通信。
+### KENC是本地->远程KT隧道，局域网部署在一台设备上即可，可与远程MinerProxy通过KENC协议进行通信。
 
 <a href="https://github.com/JJMinerProxy/MinerProxy/raw/main/KENC/kenc_v_win.exe">点击下载WINDOWS客户端</a>
 
